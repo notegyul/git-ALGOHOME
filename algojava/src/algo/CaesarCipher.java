@@ -6,6 +6,7 @@ public class CaesarCipher {
     public static void main(String[] args) {
         CaesarCipher c = new CaesarCipher();
         System.out.println(c.solution("AB", 1));
+        System.out.println(c.newSolution("Z", 1));
     }
 
     public String solution(String s, int n) {
@@ -48,5 +49,21 @@ public class CaesarCipher {
         }
 
         return answer;
+    }
+
+    public String newSolution(String s, int n) {
+        StringBuffer answer = new StringBuffer();
+
+        for (char c : s.toCharArray()) {
+            if (c == ' ') {
+                answer.append(c);
+            } else if (Character.isUpperCase(c)) {
+                answer.append((char) ('A' + (c - 'A' + n) % 26));
+            } else if (Character.isLowerCase(c)) {
+                answer.append((char) ('a' + (c - 'a' + n) % 26));
+            }
+        }
+
+        return answer.toString();
     }
 }
