@@ -1,4 +1,4 @@
-package algo;
+package algo.june2024.week1;
 
 import java.util.HashMap;
 
