@@ -7,7 +7,7 @@ public class PickTwoAdd {
 
     }
 
-    // 20240603
+    // 20240603 - 두 개 골라서 더하기
     public int[] solution(int[] numbers) {
         // TreeSet을 쓰면 add와 동시에 정렬이 된다고 함!
         Set<Integer> set = new HashSet<>();

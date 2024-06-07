@@ -8,7 +8,7 @@ public class Phoneketmon {
 
     }
 
-    // 20240605
+    // 20240605 - 폰켓몬
     public int solution(int[] nums) {
         int answer = 0;
 

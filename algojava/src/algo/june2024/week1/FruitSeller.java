@@ -9,7 +9,7 @@ public class FruitSeller {
 
     }
 
-    // 20240604
+    // 20240604 - 과일 장수
     public int solution(int k, int m, int[] score) {
 
         int answer = 0;
