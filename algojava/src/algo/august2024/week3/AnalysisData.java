@@ -4,6 +4,7 @@ import java.util.ArrayList;
 import java.util.Arrays;
 import java.util.Comparator;
 
+// 240814 - 데이터 분석
 public class AnalysisData {
 
     public int[][] solution(int[][] data, String ext, int val_ext, String sort_by) {
