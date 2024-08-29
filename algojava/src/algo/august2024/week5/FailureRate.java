@@ -6,7 +6,7 @@ import java.util.*;
 public class FailureRate {
     public int[] solution(int N, int[] stages) {
         int n = stages.length;
-        float[] rate = new float[N+2];
+        Float[] rate = new Float[N+1];
 
         Arrays.sort(stages);
 
@@ -44,10 +44,20 @@ public class FailureRate {
             rateMap.put(rate[i], lst);
         }
 
+        List<Integer> lst = new ArrayList<>();
+        Arrays.sort(rate, Collections.reverseOrder());
+        for (int i=1; i<=N; i++) {
+            for (int j : rateMap.get(i)) {
+                lst.add(j);
+            }
+        }
 
+        for (int i=0; i<lst.size(); i++) {
+            ans[i] = lst.get(i);
+        }
 
-
-
-        return null;
+        return ans;
     }
+
+
 }
