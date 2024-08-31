@@ -10,6 +10,7 @@ public class StringSplitting {
         for (int i=0; i<s.length(); i++) {
             char c = s.charAt(i);
 
+            // 마지막 남는 한 덩어리는 여기서 자동 처리됨
             if (cnt == 0) {
                 ans++;
                 if (i < s.length()-1) {
