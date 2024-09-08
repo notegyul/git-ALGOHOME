@@ -19,7 +19,7 @@
 | 5  | :white_check_mark: 예쓰 | 2     | 240905 | 점프와 순간이동, 구명보트, 멀리 뛰기, N개의 최소공배수, 예상 대진표, 귤 고르기          |
 | 6  | :white_check_mark: 예쓰 | 2     | 240906 | 연속 부분 수열 합의 개수, 행렬의 곱셈, H-Index, 의상                      |
 | 7  | :white_check_mark: 예쓰 | 2     | 240907 | 캐시, 기능 개발, 피로도                                           |
-| 8  | :white_large_square: 노우 |       |        |                                                          |
+| 8  | :white_check_mark: 예쓰 | 2     | 240908 | 튜플, 프로세스                                                 |
 | 9  | :white_large_square: 노우 |       |        |                                                          |
 | 10 | :white_large_square: 노우 |       |        |                                                          |
 | 11 | :white_large_square: 노우 |       |        |                                                          |
