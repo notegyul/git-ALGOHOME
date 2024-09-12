@@ -21,9 +21,9 @@
 | 7  | :white_check_mark: 예쓰   | 2     | 240907 | 캐시, 기능 개발, 피로도                                           |
 | 8  | :white_check_mark: 예쓰   | 2     | 240908 | 튜플, 프로세스                                                 |
 | 9  | :white_check_mark: 예쓰   | 2     | 240909 | 전화번호 목록                                                  |
-| 10 | :white_large_square: 노우 |       |        |                                                          |
-| 11 | :white_large_square: 노우 |       |        |                                                          |
-| 12 | :white_large_square: 노우 |       |        |                                                          |
+| 10 | :white_large_square: 노우 | -     | 240910 | -                                                        |
+| 11 | :white_large_square: 노우 | -     | 240911 | -                                                        |
+| 12 | :white_check_mark: 예쓰 | 2     | 240912 | 뉴스 클러스터링                                                 |
 | 13 | :white_large_square: 노우 |       |        |                                                          |
 | 14 | :white_large_square: 노우 |       |        |                                                          |
 | 15 | :white_large_square: 노우 |       |        |                                                          |
