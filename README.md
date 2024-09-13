@@ -24,7 +24,7 @@
 | 10 | :white_large_square: 노우 | -     | 240910 | -                                                        |
 | 11 | :white_large_square: 노우 | -     | 240911 | -                                                        |
 | 12 | :white_check_mark: 예쓰 | 2     | 240912 | 뉴스 클러스터링                                                 |
-| 13 | :white_check_mark: 예쓰 | 2     | 240913 | 타겟 넘버                                                    |
+| 13 | :white_check_mark: 예쓰 | 2     | 240913 | 타겟 넘버, n 진수 게임                                           |
 | 14 | :white_large_square: 노우 |       |        |                                                          |
 | 15 | :white_large_square: 노우 |       |        |                                                          |
 | 16 | :white_large_square: 노우 |       |        |                                                          |
