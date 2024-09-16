@@ -25,9 +25,9 @@
 | 11 | :white_large_square: 노우 | -     | 240911 | -                                                        |
 | 12 | :white_check_mark: 예쓰 | 2     | 240912 | 뉴스 클러스터링                                                 |
 | 13 | :white_check_mark: 예쓰 | 2     | 240913 | 타겟 넘버, n 진수 게임                                           |
-| 14 | :white_large_square: 노우 |       |        |                                                          |
-| 15 | :white_large_square: 노우 |       |        |                                                          |
-| 16 | :white_large_square: 노우 |       |        |                                                          |
+| 14 | :white_large_square: 노우 | -     | 240914 |                                                          |
+| 15 | :white_large_square: 노우 | -     | 240915 |                                                          |
+| 16 | :white_check_mark: 예쓰 | 2     | 240916 | k 진수에서 소수 개수 구하기                                         |
 | 17 | :white_large_square: 노우 |       |        |                                                          |
 | 18 | :white_large_square: 노우 |       |        |                                                          |
 | 19 | :white_large_square: 노우 |       |        |                                                          |
